@@ -12,11 +12,11 @@ window.STATIC_DATA = {
     slogan: '匠心编织 · 羊绒之选',
     description: '濮尚服饰有限公司是一家专注于高品质羊绒及羊毛针织服饰的设计、生产与销售企业。公司秉承匠心精神，从原材料甄选到成衣出品，每一道工序均严格把控，致力于为消费者提供兼具舒适与优雅的高端针织服饰。我们拥有现代化的生产车间、先进的全成型编织设备以及经验丰富的工艺团队，产品涵盖羊绒圆领毛衣、高领毛衣、麻花编织套头衫、V领精纺毛衣等多个系列，远销海内外市场。',
     address: '中国 · 上海市闵行区针织产业园濮尚大厦',
-    phone: '19817578079',
+    phone: '+86 19817578079',
     email: 'contact@pushang-fashion.com',
     foundedYear: 2008,
     logo: null,
-    heroImage: '/photo/01-hero-fashion.jpg',
+    heroImage: '/photo/01-hero-fashion.png',
     copyright: '© 2026 濮尚服饰有限公司 版权所有 沪ICP备2026000000号'
   },
 
@@ -165,7 +165,7 @@ window.STATIC_DATA = {
   // 画廊
   gallery: [
     // 品牌视觉
-    { id: 1, title: '品牌主视觉', description: '模特穿着优雅羊绒毛衣在极简大理石画廊中，黄金时段光线透过拱形窗户', image: '/photo/01-hero-fashion.jpg', category: '品牌视觉', sortOrder: 1 },
+    { id: 1, title: '品牌主视觉', description: '模特穿着优雅羊绒毛衣在极简大理石画廊中，黄金时段光线透过拱形窗户', image: '/photo/01-hero-fashion.png', category: '品牌视觉', sortOrder: 1 },
     { id: 2, title: '品牌故事', description: '优雅的时装店内景，展示架上的羊绒毛衣系列，温暖环境灯光', image: '/photo/04-brand-story.jpg', category: '品牌视觉', sortOrder: 2 },
     { id: 3, title: '匠心氛围', description: '现代时装工作室，自然光透过天窗，中性色调面料悬挂', image: '/photo/06-heritage-atmosphere.jpg', category: '品牌视觉', sortOrder: 3 },
     { id: 4, title: '品牌旗舰', description: '奢侈羊绒品牌旗舰店内景全景，双层挑高空间，水晶吊灯', image: '/photo/100-brand-flagship.jpg', category: '品牌视觉', sortOrder: 4 },
